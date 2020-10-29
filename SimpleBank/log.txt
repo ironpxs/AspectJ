@@ -1,0 +1,4 @@
+
+Tipo de transacción: Realizar transacción Hora->13:8:38
+Tipo de transacción: Retirar dinero Hora->13:8:48
+Tipo de transacción: Retirar dinero Hora->13:9:0
